@@ -306,7 +306,7 @@ END
 APPEND C#Husam2
 
 IF ~~ THEN meeting_bg2_07
-SAY ~(grimasses) As I thought.~
+SAY ~(grimaces) As I thought.~
 IF ~~ THEN + meeting_bg2_08
 END
 
